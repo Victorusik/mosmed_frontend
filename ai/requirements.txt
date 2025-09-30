@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+pandas
+openpyxl
+pydicom
+torch
+timm
+albumentations
+opencv-python
+numpy
+matplotlib
